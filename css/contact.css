@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .navbar {
+    background-color: white;
+  }
+}
+
+.navbar {
+  background-color: black;
+}
